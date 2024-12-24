@@ -389,6 +389,11 @@ small {
         line-height: 60px;
     }
 
+    .rates-section .text {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
     .account-wrapper {
         gap: 60px;
     }
